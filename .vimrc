@@ -6,3 +6,5 @@
 :inoremap { {}<Esc>i
 :inoremap ' ''<Esc>i
 :inoremap " ""<Esc>i
+:set tabstop=4
+:set noexpandtab
