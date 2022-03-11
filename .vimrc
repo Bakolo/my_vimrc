@@ -8,3 +8,4 @@
 :inoremap " ""<Esc>i
 :set tabstop=4
 :set noexpandtab
+:set relativenumber
