@@ -9,3 +9,8 @@
 :set tabstop=4
 :set noexpandtab
 :set relativenumber
+:set number
+
+NOTE=============================================
+:set relativenumber == :set rnu
+:set number == :set nu
